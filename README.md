@@ -13,6 +13,6 @@
 
 
 | Title  | Short Description |
-| --------  | ------------------- | --------------------- |
+| --------  | ------------------- |
 | [School Management System using Flask](https://github.com/deven740/python_projects/tree/master/School%20Management%20System%20using%20Flask) | SS | 
 

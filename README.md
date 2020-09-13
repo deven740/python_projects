@@ -7,7 +7,7 @@
 <br/>
 
 
-![alt text](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
+![alt text](https://datawider.com/wp-content/uploads/2019/11/How-to-Learn-Python.jpg)
 
 <br/>
 
